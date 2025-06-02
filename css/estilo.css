@@ -84,6 +84,10 @@ nav.navbar-transparente {
    
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+
 /* Estrutura dos contéudos */
 .caixa  {
     padding-top: 20px;
